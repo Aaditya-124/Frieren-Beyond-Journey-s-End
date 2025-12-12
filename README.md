@@ -1,2 +1,2 @@
-# demo1
-this is for anime
+# Frieren: Beyond Journey's End
+This website belongs to Frieren anime 
